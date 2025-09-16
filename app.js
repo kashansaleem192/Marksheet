@@ -10,7 +10,8 @@ const stdObj = [
       Math: 80,
       Computer: 75,
       Physics: 60,
-      Urdu: 60
+      Urdu: 60,
+      English: 56
     }
   },
   {
@@ -21,18 +22,44 @@ const stdObj = [
       Math: 95,
       Computer: 90,
       Physics: 55,
-      Urdu: 60
+      Urdu: 60,
+      English: 70
     }
   },
   {
-    name: "Kashan",
-    class: "12",
+    name: "Salaar",
+    class: "11",
     rollNo: "03",
     marks: {
-      Math: 75,
+      Math: 91,
       Computer: 80,
       Physics: 40,
-      Urdu: 60
+      Urdu: 60,
+      English: 64
+    }
+  },
+   {
+    name: "Kashan",
+    class: "12",
+    rollNo: "04",
+    marks: {
+      Math: 68,
+      Computer: 80,
+      Physics: 40,
+      Urdu: 60,
+      English: 50
+    }
+  },
+   {
+    name: "Faraz",
+    class: "5",
+    rollNo: "04",
+    marks: {
+      Math: 90,
+      Computer: 87,
+      Physics: 78,
+      Urdu: 65,
+      English: 80
     }
   }
 ];
